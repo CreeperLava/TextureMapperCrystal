@@ -5582,6 +5582,7 @@ groupid,game,crc,name,size_x,size_y,grade,format,notes
 7292,3,0x845A9A96,Volus_Toy01_Norm,32,32,a,V8U8,
 7293,2,0x97C8AD7D,VOL_NKDa_Tnt_Strp,512,512,a,DXT1,
 7293,3,0x97C8AD7D,VOL_NKDa_Tnt_Strp,512,512,a,DXT1,
+7293,3,0xCD9C55C9,Volus_Toy01_Strp,128,128,a,DXT1,
 7294,2,0xBB119ECF,WalkPad_Diff,512,512,a,DXT1,
 7294,3,0xBB119ECF,WalkPad_Diff,512,512,a,DXT1,
 7294,2,0xB3E3C7DA,WalkPad_DiffHutTrim_Diff,256,256,a,DXT1,

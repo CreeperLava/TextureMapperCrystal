@@ -5579,6 +5579,7 @@ groupid,game,crc,name,size_x,size_y,grade,format,notes
 7291,3,0xCDED4B49,Volus_Toy01_Diff,256,256,a,DXT5,
 7292,2,0xFFAF21EC,VOL_NKDa_Tnt_Norm,512,512,a,ATI2_3Dc,
 7292,3,0x3CC1D533,VOL_NKDa_Tnt_Norm,256,256,a,V8U8,
+7292,3,0x845A9A96,Volus_Toy01_Norm,32,32,a,V8U8,
 7293,2,0x97C8AD7D,VOL_NKDa_Tnt_Strp,512,512,a,DXT1,
 7293,3,0x97C8AD7D,VOL_NKDa_Tnt_Strp,512,512,a,DXT1,
 7294,2,0xBB119ECF,WalkPad_Diff,512,512,a,DXT1,
@@ -7545,3 +7546,5 @@ groupid,game,crc,name,size_x,size_y,grade,format,notes
 8565,1,0x342AFE5E,WAR20_CONCRETEWALL05_DIFF,256,256,a,DXT5,
 8566,2,0xFE2B174B,Concrete_Wall03_Broken_Diff,512,512,b,DXT1,
 8566,3,0x04308982,KroInd_ConcreteWall_Broken_01_Diff,512,512,b,DXT1,
+8567,3,0xE98B7781,Volus_Toy01_Tint,128,128,a,DXT1,
+8567,3,0x93229A60,NCA_VOL_NKDa_Tnt_Tint,512,512,a,DXT1,
